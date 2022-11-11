@@ -8,4 +8,4 @@ The Problem Statement for our project is __supply chain event prediction and vis
 
 ## PPT
 Please download ppt 
-PPT Link-  https://github.com/jjv1602/Digital_ProDigi_tech_buddies/blob/main/Digital%20Prodigi-%20Tech%20Buddies.pptx
+PPT Link-  https://docs.google.com/presentation/d/1sQI8yG0BsUa7ZOYTjRcTN5364zcyGYU9/edit?usp=sharing&ouid=109718650894158148340&rtpof=true&sd=true
